@@ -1,0 +1,11 @@
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\backends\imgui_impl_dx10.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_impl_dx10.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\backends\imgui_impl_dx11.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_impl_dx11.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\backends\imgui_impl_win32.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_impl_win32.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\imgui.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\imgui_draw.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_draw.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\imgui_tables.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_tables.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\imgui_widgets.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_widgets.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\misc\cpp\imgui_stdlib.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_stdlib.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\libaries\imgui\misc\freetype\imgui_freetype.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\imgui_freetype.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\main.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\main.obj
+C:\Users\CARSEXTENDEDPC\VS Projects\QHair\src\utils\ImGuiEx.cpp;C:\Users\CARSEXTENDEDPC\VS Projects\QHair\x64\Debug\ImGuiEx.obj
